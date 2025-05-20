@@ -1397,6 +1397,8 @@ Thelin*
 
 * [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
 
+* [Statistics Every Programmer Needs](https://www.manning.com/books/statistics-every-programmer-needs) by *Gary Sutton* **[paid]**
+
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
 * [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) by *Aditya Guntuboyina* **[pdf]**
